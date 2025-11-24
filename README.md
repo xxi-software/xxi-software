@@ -2,23 +2,32 @@
   <h1>👋 Hola, soy Camilo Usuga</h1>
   <h3>Desarrollador de Software | Full Stack & AI Enthusiast</h3>
   
-  <p>
-    Me apasiona transformar ideas en código limpio y escalable. Con una sólida base técnica en el <strong>SENA y CESDE</strong>, y especialización reciente en <strong>Inteligencia Artificial</strong> (Talento Tech).
-  </p>
+  ---
 
-  <p>
-    <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  ## 🚀 Sobre Mí
+  
+  Soy un desarrollador colombiano con formación técnica y tecnológica en desarrollo de software, complementada con un bootcamp intensivo en Inteligencia Artificial. Me apasiona crear soluciones completas (full-stack), implementar buenas     prácticas y seguir aprendiendo nuevas tecnologías todos los días.
+  
+  Tengo experiencia real en entornos productivos resolviendo bugs críticos y desarrollando funcionalidades de pago en una fintech. Me encanta trabajar en equipo, escribir código limpio y escalable, y estoy listo para aportar valor en         proyectos desafiantes.
+  
+  
+  <p>    
+    <a>
+      <img src="https://img.shields.io/badge/Edad-26-blue" alt="Edad"> <img src="https://img.shields.io/badge/Ubicación-Medellín-brightgreen" alt="Colombia"> <img src="https://img.shields.io/badge/Disponible%20para%20trabajo-Sí-success" alt="Disponible">
     </a>
-    <a href="mailto:TU-EMAIL@GMAIL.COM">
+  <br/>
+  <br/>
+    <a href="mailto:juancamilousugahincapie@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-  </p>
+  </p>  
+
+  
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Vivo sentado
 
 * 💼 **Experiencia:** Trabajé 6 meses en **ePayco SAS** utilizando PHP y TypeScript para implementar endpoints de pago y resolver bugs críticos.
 * 🎓 **Formación:** Tecnología en Análisis y Desarrollo de Software (SENA) & Técnica en Desarrollo de Software (CESDE).
